@@ -3,7 +3,7 @@ name: Deploy Docker Image Locally
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
